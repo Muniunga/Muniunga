@@ -25,8 +25,7 @@
    <a href = "mailto:muniunga2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ad%C3%A9rito-muniunga-20b90520b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/aderito.peres.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
- ![Snake animation](https://github.com/Muniunga/Muniunga/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Muniunga&repo=Muniunga&theme=react)](https://github.com/Muniunga/Muniunga) 
