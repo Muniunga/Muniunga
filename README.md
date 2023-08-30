@@ -17,6 +17,7 @@
   <img align="center" alt="Muniunga-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" alt="Muniunga-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
   <img align="center" alt="Muniunga-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Muniunga-LARAVEL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain-wordmark.svg"> 
 </div>
  
   ##
